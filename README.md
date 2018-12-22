@@ -1,2 +1,4 @@
 # clicky-game
-A Memory Game
+A Memory Game Using React
+
+## Game Play
